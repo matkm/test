@@ -7,3 +7,5 @@
 [file](file.md)
 
 [file 2](folder/file2.md)
+
+[pdf](mycommunityproject.pdf)
