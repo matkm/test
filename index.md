@@ -1,6 +1,8 @@
 # Example heading
 
-[Example link](https://google.com)
+[Google](https://google.com)
+
+[Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 [file](file.md)
 
