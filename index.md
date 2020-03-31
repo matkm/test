@@ -53,9 +53,9 @@ Update 1
 ## Other links
 
 
+- [Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
 ![Australasian College for Emergency Medicine](images/acem.png)
-[Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
 
+- [onthewards](https://onthewards.org/onthepods/)
 ![onthewards](images/onthewards.png)
-[onthewards](https://onthewards.org/onthepods/)
 
