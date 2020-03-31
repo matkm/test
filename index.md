@@ -20,7 +20,7 @@
 
 [OXYLOG 3000; OWN THE OXLOG](https://youtu.be/7kRf2VGG3Fo)
 
-https://drive.google.com/file/d/1NnhnEtRAUYxfzYT8kxqnGfNbzGd54o3J/view?usp=sharing
+[OXYLOG 3000: GUIDE](https://drive.google.com/file/d/1NnhnEtRAUYxfzYT8kxqnGfNbzGd54o3J/view?usp=sharing)
 
 [OXYLOG 3000; BASIC USE](https://youtu.be/AVev0DYYWQ4)
 
@@ -56,6 +56,6 @@ Update 1
 [Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
 ![Australasian College for Emergency Medicine](images/acem.png)
 
-[On the Wards](https://onthewards.org/onthepods/)
-![On the Wards](images/onthewards.png)
+[onthewards](https://onthewards.org/onthepods/)
+![onthewards](images/onthewards.png)
 
