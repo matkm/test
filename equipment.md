@@ -22,5 +22,5 @@
 
 * [RPA refresher](https://youtu.be/pSSZ5xUP-R0)
 
-* [Word document converted to pdf](https://drive.google.com/file/d/1rYq6sNUzpQOkymMuwkb5ntMJ85JJetGg/view?usp=sharing) (Word document converted to PDF)
+* [Quick Reference Guide](https://drive.google.com/file/d/1rYq6sNUzpQOkymMuwkb5ntMJ85JJetGg/view?usp=sharing) (Word document converted to PDF)
 
