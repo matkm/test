@@ -12,18 +12,8 @@
 
 ## [ICU pages](icu.md)
 
-## Previous updates
+## [Previous updates](prev-updates.md)
 
 Update 1
 
-## Other links
-
-
-[Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
-
-![Australasian College for Emergency Medicine](images/acem.png)
-
-[onthewards](https://onthewards.org/onthepods/)
-
-![onthewards](images/onthewards.png)
-
+## [Other links](other.md)
