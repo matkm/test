@@ -2,15 +2,17 @@
 
 [Covid NIV on Hamilton](https://youtu.be/-M0KCggp1Lw)
 
-[OXYLOG 3000; OWN THE OXLOG](https://youtu.be/7kRf2VGG3Fo)
+OXYLOG 3000
 
-[OXYLOG 3000: GUIDE](https://drive.google.com/file/d/1NnhnEtRAUYxfzYT8kxqnGfNbzGd54o3J/view?usp=sharing)
+* [OWN THE OXLOG](https://youtu.be/7kRf2VGG3Fo)
 
-[OXYLOG 3000; BASIC USE](https://youtu.be/AVev0DYYWQ4)
+* [GUIDELINES](https://drive.google.com/file/d/1NnhnEtRAUYxfzYT8kxqnGfNbzGd54o3J/view?usp=sharing)
 
-HANDOUT: to be attached here
+* [BASIC USE](https://youtu.be/AVev0DYYWQ4)
 
-[OXYLOG 3000; RPA refresher](https://youtu.be/JZ4vUvxuQvQ)
+* HANDOUT: to be attached here
+
+* [RPA refresher](https://youtu.be/JZ4vUvxuQvQ)
 and [word document converted to pdf](https://drive.google.com/open?id=13nbh2IgHZCTD3GOoij2BmAAAbuwsHbPt)
 
 [OXYLOG 2000; RPA refresher](https://youtu.be/pSSZ5xUP-R0)
