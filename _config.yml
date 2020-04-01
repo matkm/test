@@ -1,6 +1,6 @@
 #theme: jekyll-theme-cayman
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-relative-links
 relative_links:
