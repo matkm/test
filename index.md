@@ -14,6 +14,4 @@
 
 ## [Previous updates](prev-updates.md)
 
-Update 1
-
 ## [Other links](other.md)
