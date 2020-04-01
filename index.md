@@ -8,18 +8,9 @@
 
 ## [Equipment](equipment.md)
 
-## Flow diagrams
+## [Flow diagrams](flow.md)
 
-PDF 30th March 2020 (may be out of date- still current as of 1/4/2020
-And [on intranet](http://slhd-intranet.sswahs.nsw.gov.au/RPA/ICS/covid_triage.html)
-
-## ICU pages 
-
-[Covid-ICU](http://slhd-intranet.sswahs.nsw.gov.au/RPA/ICS/covid.html)
-(only on intranet)
-
-[ARDSnet Strategy](http://slhd-intranet.sswahs.nsw.gov.au/RPA/ICS/protocols_tool_ventilationARDSnet.html)
-(only on intranet)
+## [ICU pages](icu.md)
 
 ## Previous updates
 
