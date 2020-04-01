@@ -16,12 +16,11 @@
 
 * [RPA refresher](https://youtu.be/JZ4vUvxuQvQ)
 
-* [Word document converted to pdf](https://drive.google.com/open?id=13nbh2IgHZCTD3GOoij2BmAAAbuwsHbPt)
+* [Quick Reference Guide](https://drive.google.com/open?id=13nbh2IgHZCTD3GOoij2BmAAAbuwsHbPt) (Word document converted to PDF)
 
 ## OXYLOG 2000
 
 * [RPA refresher](https://youtu.be/pSSZ5xUP-R0)
 
-* [Word document converted to pdf](https://drive.google.com/file/d/1rYq6sNUzpQOkymMuwkb5ntMJ85JJetGg/view?usp=sharing)
-(also in description of video)
+* [Word document converted to pdf](https://drive.google.com/file/d/1rYq6sNUzpQOkymMuwkb5ntMJ85JJetGg/view?usp=sharing) (Word document converted to PDF)
 
