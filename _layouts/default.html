@@ -17,7 +17,6 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <p><small>Page last updated: {{ page.date }}</small></p>
 
         <ul>
           {% if site.show_downloads %}
@@ -42,6 +41,7 @@
       </section>
 
       <footer>
+        <p><small>Page last updated: {{ page.date }}</small></p>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
       </footer>
     </div>
